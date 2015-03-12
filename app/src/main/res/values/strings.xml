@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">vurb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="link_button">Video</string>
+
+    <string name="title_activity_splash_screen">Vurb Demo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="deleted">Done for now</string>
+    <string name="undo">undo</string>
+</resources>

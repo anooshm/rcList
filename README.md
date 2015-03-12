@@ -6,7 +6,7 @@ Uses RecyclerView with ViewHolders for optimum performance<br/>
 <b>Extras:</b><br/>
      a) Swipe to delete card like google now<br/>
      b) Undo delete like google now<br/>
-     c) Has infite scrolling but it is not activated.<br/>
+     c) Has infinite scrolling but it is not activated.<br/>
 <br/>
 <b>i) To add a new type of card:</b><br/>
      a) ADD the Card class to com/amachan/card/ by extending the default CARD class<br/>
